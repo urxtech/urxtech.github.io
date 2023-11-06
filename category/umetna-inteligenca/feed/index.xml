@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Umetna inteligenca &#8211; URX Tech</title>
+	<atom:link href="/category/umetna-inteligenca/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 06 Nov 2023 13:32:08 +0000</lastBuildDate>
+	<language>sl-SI</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Umetna inteligenca: Naš vsakdanji sopotnik</title>
+		<link>/umetna-inteligenca-nas-vsakdanji-sopotnik/</link>
+					<comments>/umetna-inteligenca-nas-vsakdanji-sopotnik/#respond</comments>
+		
+		<dc:creator><![CDATA[ciril]]></dc:creator>
+		<pubDate>Mon, 06 Nov 2023 13:31:19 +0000</pubDate>
+				<category><![CDATA[Umetna inteligenca]]></category>
+		<guid isPermaLink="false">/?p=963</guid>
+
+					<description><![CDATA[V zadnjih letih je umetna inteligenca (AI) prestopila meje znanstvene fantastike in postala pomemben del našega vsakdanjega življenja. S svojim[...]]]></description>
+										<content:encoded><![CDATA[<p>V zadnjih letih je umetna inteligenca (AI) prestopila meje znanstvene fantastike in postala pomemben del našega vsakdanjega življenja. S svojim nevidnim, a vseprisotnim delovanjem je umetna inteligenca dramatično spremenila način, kako interagiramo s tehnologijo, upravljamo svoja dela in celo razumemo lastno človečnost. Ta članek vas popelje skozi različne plasti naših vsakodnevnih izdelkov in storitev, ki so jih preoblikovali algoritmi AI, in raziskuje potencialne etične ter zasebnostne izzive, ki jih prinaša.</p>
+<p>Začnimo z najbolj očitnimi aplikacijami: pametni telefoni in osebni asistenti. Siri, Alexa in Google Assistant so postali naši osebni pomočniki, ki jih lahko prosimo za vse od nastavitve alarma do iskanja receptov ali nadzora pametnega doma. Delujejo na podlagi naprednih algoritmov strojnega učenja, ki razumejo in se odzivajo na naravni jezik, se učijo iz naših navad in preferenc ter postajajo vedno bolj osebni in intuitivni.</p>
+<p>AI pa ne spreminja samo načina komunikacije z napravami, temveč preoblikuje tudi potrošniške izdelke. Priporočilni sistemi, kot so tisti, ki jih uporabljajo Netflix in Amazon, se učijo iz naših preteklih nakupov in gledalnih navad, da nam predlagajo izdelke in vsebine, ki bi nas lahko zanimale. Ta personalizacija je postala ključna za izkušnjo uporabnikov, vendar pa se pri tem porajajo vprašanja o zasebnosti in avtonomiji odločanja.</p>
+<p>Pametni domovi, opremljeni s senzorji in AI, se učijo optimizirati porabo energije, povečati varnost in izboljšati udobje, ne da bi od nas zahtevali kakršno koli interakcijo. Termostati, kot je Nest, se samodejno prilagodijo našemu urniku in navadam, medtem ko pametne varnostne kamere uporabljajo prepoznavanje obrazov, da identificirajo znane in neznane obiskovalce.</p>
+<p>Vendar pa vse te inovacije prinašajo tudi nove izzive. Ko dovolimo, da AI vodi naše izbire in navade, se moramo vprašati, koliko naše zasebnosti smo pripravljeni žrtvovati za udobje. Vsaka interakcija s pametnimi napravami ustvari podatke, ki lahko razkrijejo veliko o naših osebnih življenjih. Vprašanje je, kdo ima dostop do teh podatkov in kako so zaščiteni.</p>
+<p>Etične dileme, ki se pojavljajo z rastjo AI, niso omejene le na zasebnost. Obstajajo pomisleki glede tega, kako lahko algoritmi brez ustreznega nadzora ustvarjajo pristranskost in diskriminacijo. Algoritmi AI so le toliko nepristranski kot podatki, s katerimi so trenirani, in če ti podatki odražajo obstoječe pristranskosti, se te lahko utrdijo in širijo.</p>
+<p>Zato je ključnega pomena, da kot družba vzpostavimo smernice in regulacije, ki zagotavljajo, da AI deluje na način, ki je transparenten, pravičen in spoštuje našo zasebnost. Poleg tega je pomembno ozaveščanje in izobraževanje uporabnikov o tem, kako njihovi podatki se uporabljajo in kako lahko upravljajo svoje digitalne odtise.</p>
+<p>Umetna inteligenca nedvomno prinaša koristi v obliki večje učinkovitosti, udobja in celo zabave. Vendar pa kot družba moramo biti previdni in zagotoviti, da tehnologija služi nam, ne pa da mi nevede postajamo služabniki njej. Naša prihodnost z AI je svetla, če bomo premišljeno upravljali z orodji, ki nam jih ponuja.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/umetna-inteligenca-nas-vsakdanji-sopotnik/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
